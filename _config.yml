@@ -24,6 +24,7 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-jalali
     
 # Archives
 jekyll-archives:
