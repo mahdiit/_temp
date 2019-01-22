@@ -9,6 +9,7 @@
 }
 
 $font-family-base: VarirFD, Arial;
+$font-family-sans-serif: $font-family-base;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "{{ site.theme }}";
