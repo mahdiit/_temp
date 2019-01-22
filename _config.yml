@@ -23,8 +23,7 @@ authors:
 # Plugins
 plugins: 
   - jekyll-paginate
-  - jekyll-archives
-  - jekyll-jalali
+  - jekyll-archives  
     
 # Archives
 jekyll-archives:
