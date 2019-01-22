@@ -8,8 +8,8 @@
 	display:inline;
 }
 
-$font-family-base: VarirFD, Arial;
-$font-family-sans-serif: $font-family-base;
+$font-family-base: VarirFD, Arial !default;
+$font-family-sans-serif: VarirFD, Arial !default;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "{{ site.theme }}";
