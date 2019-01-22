@@ -1,7 +1,7 @@
-# Site
-name: "My Personal Blog"
-description: "Blog Data"
-meta_description: "Mahdi Yousefi Personal Blog"
+﻿# Site
+name: "وبلاگ مهدی"
+description: "وبلاگ شخصی مهدی یوسفی"
+meta_description: "مهدی یوسفی وبلاگ شخصی"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
@@ -12,13 +12,13 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 # Authors
 authors:
   sal:
-    name: Mahdi
-    display_name: Mahdi Yousefi
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    name: مهدی
+    display_name: مهدی یوسفی
+    gravatar: 5e07735196627111f96ff56331fdc665
     email: mahdi.usefi@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    web: http://www.usefi.net
+    twitter: https://twitter.com/mahdiit
+    description: "I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."
   john:
     name: John
     display_name: John

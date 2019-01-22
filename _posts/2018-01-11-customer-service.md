@@ -1,21 +1,17 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title:  "اپلیکیشنی که جایگزین داروی «ریتالین» شد"
 author: Mahdi
-categories: [ Jekyll, tutorial ]
-image: assets/images/11.jpg
+categories: [اخبار, مهم ]
+image: assets/images/news/2129239.jpg
 featured: true
 hidden: true
 ---
 
-No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
+محققان پژوهشی انجام دادند و طی آن از افراد خواسته شدتا از اپلیکیشنی به نام Decoder استفاده کنند. این اپلیکیشن از هر بازیکن می خواهد با مشاهده توالی اعداد یا اشکال روی صفحه ضربه بزند. افراد پس از ۸ ساعت استفاده از اپلیکیشن طی یک ماه با افزایش تمرکز و توجه روبرو شدند.
 
-Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.
+## چگونه؟
 
-## What is Jekyll?
+حققان ادعا می کنند افرادی که از اپلیکیشن استفاده کردند در مقایسه با افرادی که از داروی محرکی مانند«ریتالین»( یک درمان معمول برای اختلالADHD) بهره وری بهتری داشتند.
 
-Jekyll is a simple, blog-aware, static site generator.
-
-You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.
-
-Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.
+آنها معقدند این اپلیکیشن به ارتقای تمرکز کودکان و نوجوانان کمک می کند. زیرا با توجه به گسترش فناوری های مختلف مانند شبکه اجتماعی، دانش آموزان با مشکل عدم تمرکز دست و پنجه نرم می کنند.

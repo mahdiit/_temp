@@ -220,8 +220,8 @@ License: https://www.wowthemes.net/freebies-license/
      max-height:30px;
      margin-right:5px;
 }
- .mainheading h1.sitetitle {
-     font-family:Righteous;
+.mainheading h1.sitetitle {
+    font-family: Vazir, Arial;
 }
  .mainheading h1.posttitle {
      font-weight:700;
@@ -241,11 +241,11 @@ License: https://www.wowthemes.net/freebies-license/
  .link-dark {
      color:rgba(0,0,0,.8);
 }
- .article-post {
-     font-family:Merriweather;
-     font-size:1.1rem;
-     line-height:1.84;
-     color:rgba(0,0,0,.8);
+.article-post {
+    font-family: Vazir, Arial;
+    font-size: 1.1rem;
+    line-height: 1.84;
+    color: rgba(0,0,0,.8);
 }
  blockquote {
      border-left:4px solid #00ab6b;
@@ -533,8 +533,8 @@ License: https://www.wowthemes.net/freebies-license/
      margin-top: 3rem;
      margin-bottom: 1.5rem;
 }
- .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: Vazir, Arial;
 }
  .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
      font-weight: 700;
