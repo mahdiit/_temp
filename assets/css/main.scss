@@ -7,10 +7,10 @@
 .post-excerpt p {
 	display:inline;
 }
-
-$font-family-base: VarirFD, Arial !default;
-$font-family-sans-serif: VarirFD, Arial !default;
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "{{ site.theme }}";
 @import "syntax";
+
+body{
+    font-family: 'Vazir FD', sans-serif;
+}
