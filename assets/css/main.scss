@@ -11,6 +11,5 @@
 $font-family-base: VarirFD, Arial;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax"
-;
+@import "{{ site.theme }}";
+@import "syntax";
