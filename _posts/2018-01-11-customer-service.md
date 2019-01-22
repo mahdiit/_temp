@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "اپلیکیشنی که جایگزین داروی «ریتالین» شد"
-author: مهدی
+author: Mahdi
 categories: [اخبار, مهم ]
 image: assets/images/news/2129239.jpg
 featured: true
