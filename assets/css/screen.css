@@ -272,8 +272,8 @@ License: https://www.wowthemes.net/freebies-license/
      margin-bottom:9px;
 }
  .share ul {
-     padding-left:0;
-     margin-left:0;
+     padding-right:0;
+     margin-right:0;
 }
  .share ul li i.fa {
     border:1px solid #ddd;
