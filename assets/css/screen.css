@@ -263,6 +263,7 @@ blockquote .article-post p{
  .featured-image {
      display:block;
      margin-bottom:1.5rem;
+     width: 100%;
 }
  .share {
      text-align:center;
