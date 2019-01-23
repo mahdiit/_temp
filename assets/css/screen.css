@@ -248,10 +248,11 @@ License: https://www.wowthemes.net/freebies-license/
      color:rgba(0,0,0,.8);
 }
  blockquote {
-     border-right:4px solid #00ab6b;
+     border-right:4px solid #155724;
      padding:0 20px;
      font-style:italic;
-     color:rgba(0,0,0,.5);
+     color:rgba(21, 87, 36,.5);
+     background-color: #d4edda;
 }
  .article-post p,.article-post blockquote {
      margin:0 0 1.5rem 0;
