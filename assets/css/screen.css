@@ -260,8 +260,8 @@ License: https://www.wowthemes.net/freebies-license/
 .article-post p{
      margin:0 0 1.5rem 0;
 }
-.article-post blockquote .article-post p{
-  margin:0 0 0 0;
+blockquote p{
+  margin:0 0 0 0 !important;
 }
  .featured-image {
      display:block;
