@@ -254,11 +254,14 @@ License: https://www.wowthemes.net/freebies-license/
      background-color: #d4edda;
      font-size: 0.8em;
 }
-.article-post p, .article-post blockquote {
+.article-post blockquote{
+   margin:0 0 1.5rem 0;
+}
+.article-post p{
      margin:0 0 1.5rem 0;
 }
-blockquote .article-post p{
-  margin-bottom: 0 !important;
+.article-post blockquote .article-post p{
+  margin:0 0 0 0;
 }
  .featured-image {
      display:block;
