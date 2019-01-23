@@ -258,7 +258,7 @@ License: https://www.wowthemes.net/freebies-license/
      margin:0 0 1.5rem 0;
 }
 blockquote .article-post p{
-  margin: 0;
+  margin-bottom: 0 !important;
 }
  .featured-image {
      display:block;
