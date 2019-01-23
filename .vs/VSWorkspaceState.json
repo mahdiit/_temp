@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_posts"
+    "\\assets\\css",
+    "\\assets\\css\\dist-rtl-4-1-1\\css",
+    "\\assets\\fonts\\vazir-font-v19.1.0",
+    "\\assets\\images\\news"
   ],
   "PreviewInSolutionExplorer": false
 }
