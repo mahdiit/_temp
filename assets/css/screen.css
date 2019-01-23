@@ -78,8 +78,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
  @media (min-width:992px) {
      .navbar-expand-lg .navbar-nav .nav-link {
-         padding-left:0.8rem;
          padding-right:0.8rem;
+         padding-left:0.8rem;
     }
 }
  .listfeaturedtag {
@@ -103,13 +103,13 @@ License: https://www.wowthemes.net/freebies-license/
      background-size:cover;
      height:100%;
      display:block;
-     background-position:62% 22% !important;
+     background-position:38% 22% !important;
      background-origin:border-box!important;
-     border-top-right-radius: .25rem;
-     border-bottom-right-radius: .25rem;
+     border-top-left-radius: .25rem;
+     border-bottom-left-radius: .25rem;
 }
  .listfeaturedtag .card-block {
-     padding-right:0;
+     padding-left:0;
 }
  .listfeaturedtag h2.card-title,.listrecent h2.card-title {
      font-size:1.3rem;
@@ -128,8 +128,8 @@ License: https://www.wowthemes.net/freebies-license/
  .author-thumb {
      width:40px;
      height:40px;
-     float:right;
-     margin-left:13px;
+     float:left;
+     margin-right:13px;
      border-radius:100%;
 }
  .post-top-meta {
@@ -167,7 +167,7 @@ License: https://www.wowthemes.net/freebies-license/
  span.post-read-more {
      align-items:center;
      display:inline-block;
-     float:left;
+     float:right;
      margin-top:8px;
 }
  span.post-read-more a {
@@ -178,8 +178,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .dot:after {
      content:"·";
-     margin-right:3px;
      margin-left:3px;
+     margin-right:3px;
 }
  .mediumnavigation .form-control {
      font-size:0.8rem;
@@ -188,10 +188,10 @@ License: https://www.wowthemes.net/freebies-license/
      border:1px solid rgba(0,0,0,0.04);
 }
  .mediumnavigation .form-inline {
-     margin-right:15px;
+     margin-left:15px;
 }
  .mediumnavigation .form-inline .btn {
-     margin-right:-50px;
+     margin-left:-50px;
      border:0;
      border-radius:30px;
      cursor:pointer;
@@ -211,14 +211,14 @@ License: https://www.wowthemes.net/freebies-license/
      font-size:0.9rem;
 }
  .mediumnavigation .search-icon {
-     margin-right:-40px;
+     margin-left:-40px;
      display:inline-block;
      margin-top:3px;
      cursor:pointer;
 }
  .mediumnavigation .navbar-brand img {
      max-height:30px;
-     margin-left:5px;
+     margin-right:5px;
 }
  .mainheading h1.sitetitle {
      font-family:Righteous;
@@ -248,7 +248,7 @@ License: https://www.wowthemes.net/freebies-license/
      color:rgba(0,0,0,.8);
 }
  blockquote {
-     border-right:4px solid #00ab6b;
+     border-left:4px solid #00ab6b;
      padding:0 20px;
      font-style:italic;
      color:rgba(0,0,0,.5);
@@ -272,8 +272,8 @@ License: https://www.wowthemes.net/freebies-license/
      margin-bottom:9px;
 }
  .share ul {
-     padding-right:0;
-     margin-right:0;
+     padding-left:0;
+     margin-left:0;
 }
  .share ul li i.fa {
     border:1px solid #ddd;
@@ -301,10 +301,10 @@ License: https://www.wowthemes.net/freebies-license/
          margin-bottom:20px;
          margin-top:20px;
          box-shadow:none !Important;
-         padding-left: 14px !Important;
+         padding-right: 14px !Important;
     }
      #comments {
-         margin-left: 15px;
+         margin-right: 15px;
      }
      .jumbotron.fortags {
         margin-bottom:0 !Important;
@@ -319,9 +319,9 @@ License: https://www.wowthemes.net/freebies-license/
          border-radius:3px !Important;
      }
      .alertbar input[type="email"] {
-        margin-left:0px !Important;
+        margin-right:0px !Important;
         display:block;
-        border-left:1px solid #ddd !Important;
+        border-right:1px solid #ddd !Important;
         margin-bottom:10px;
     }
      .jumbotron {
@@ -379,7 +379,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  ul.tags {
      list-style:none;
-     padding-right:0;
+     padding-left:0;
      margin:0 0 3rem 0;
 }
  ul.tags li {
@@ -422,19 +422,19 @@ License: https://www.wowthemes.net/freebies-license/
      fill:rgba(255,255,255,1);
      border-radius:30px;
      font-size:0.85rem;
-     margin-right:10px;
+     margin-left:10px;
      font-weight:600;
      text-transform:uppercase;
 }
  .post-top-meta .btn.follow {
-     margin-right:5px;
+     margin-left:5px;
      margin-top:-4px;
 }
  .alertbar {
      box-shadow:0 -3px 10px 0 rgba(0,0,0,.0785);
      position:fixed;
      bottom:0;
-     right:0;
+     left:0;
      background-color:#fff;
      width:100%;
      padding:14px 0;
@@ -446,15 +446,15 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .alertbar input[type="email"] {
      font-size:0.85rem;
-     padding:3px 10px 3px 5px;
-     border-top-right-radius:3px;
-     border-bottom-right-radius:3px;
+     padding:3px 5px 3px 10px;
+     border-top-left-radius:3px;
+     border-bottom-left-radius:3px;
      border:1px solid #ddd;
-     border-left:0;
-     margin-left:-10px;
+     border-right:0;
+     margin-right:-10px;
      height:34px;
      letter-spacing:0.5px;
-     margin-right:5px;
+     margin-left:5px;
 }
  .alertbar input[type="submit"] {
      background-color:#1C9963;
@@ -464,8 +464,8 @@ License: https://www.wowthemes.net/freebies-license/
      font-size:0.85rem;
      border-radius:0;
      padding:4px 10px;
-     border-top-left-radius:3px;
-     border-bottom-left-radius:3px;
+     border-top-right-radius:3px;
+     border-bottom-right-radius:3px;
      font-weight:600;
      height:34px;
      letter-spacing:0.5px;
@@ -500,7 +500,7 @@ License: https://www.wowthemes.net/freebies-license/
  .post-top-meta.authorpage .btn.follow {
      padding:7px 20px;
      margin-top:10px;
-     margin-right:0;
+     margin-left:0;
      font-size:0.9rem;
 }
  .graybg.authorpage {
@@ -559,7 +559,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .pointerup {
      margin-bottom:-17px;
-     margin-right:49%;
+     margin-left:49%;
      font-size:30px;
 }
  .pointerup i.fa {
