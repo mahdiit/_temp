@@ -8,9 +8,7 @@
 	display:inline;
 }
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "{{ site.theme }}";
 @import "syntax";
-
 body{
     font-family: 'VazirFD', sans-serif;
 }
