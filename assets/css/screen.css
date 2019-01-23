@@ -69,13 +69,13 @@ License: https://www.wowthemes.net/freebies-license/
      list-style: disc;
      margin-bottom:0rem;
 }
- @media (min-width:576px) {
+ /*@media (min-width:576px) {*/
      .card-columns.listfeaturedtag {
          -webkit-column-count:2;
          -moz-column-count:2;
          column-count:2;
     }
-}
+/*}*/
  @media (min-width:992px) {
      .navbar-expand-lg .navbar-nav .nav-link {
          padding-right:0.8rem;
