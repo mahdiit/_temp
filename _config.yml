@@ -6,8 +6,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
 google_analytics: 'UA-46278016-1'
-disqus: 
-mailchimp-list: 
+disqus:
+mailchimp-list:
 
 # Authors
 authors:
@@ -18,13 +18,13 @@ authors:
     email: mahdi.usefi@gmail.com
     web: http://www.usefi.net
     twitter: https://twitter.com/mahdiit
-    description: "من معتقدم که ضربان قلب برای هر انسانی محدود است. نمیخواهم ضربانهای قلبم را تلف کنم" 
+    description: "من معتقدم که ضربان قلب برای هر انسانی محدود است. نمیخواهم ضربانهای قلبم را تلف کنم"
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
-  - jekyll-archives  
-    
+  - jekyll-archives
+
 # Archives
 jekyll-archives:
   enabled:
@@ -32,11 +32,18 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge
