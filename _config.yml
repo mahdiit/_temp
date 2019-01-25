@@ -33,13 +33,6 @@ plugins:
 #  permalinks:
 #    category: '/category/:name/'
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
 # Pagination
 paginate: 6
 paginate_path: /page:num/
