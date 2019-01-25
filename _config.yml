@@ -23,15 +23,15 @@ authors:
 # Plugins
 plugins:
   - jekyll-paginate
-#  - jekyll-archives
+  - jekyll-archives
 
 # Archives
-#jekyll-archives:
-#  enabled:
-#    - categories
-#  layout: archive
-#  permalinks:
-#    category: '/category/:name/'
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
 # Pagination
 paginate: 6
