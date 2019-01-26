@@ -37,6 +37,20 @@ jekyll-archives:
 paginate: 6
 paginate_path: /page:num/
 
+imagemagick:
+  enabled: true
+  widths:
+    - 700
+    - 350
+    - 0
+  input_directories:
+    - assets/images/
+  input_formats:
+    - ".jpg"
+    - ".png"
+  output_formats:
+    jpg: "-quality 93% -define jpeg:dct-method=float -strip -interlace Plane"
+
 # Other
 markdown: kramdown
 highlighter: rouge
