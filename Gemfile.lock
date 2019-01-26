@@ -1,3 +1,13 @@
+GIT
+  remote: https://github.com/robwierzbowski/jekyll-picture-tag/
+  revision: 5e8c12939223742d0d671f286b26b35d70be1c0c
+  specs:
+    jekyll-picture-tag (1.1.0)
+      fastimage (~> 2)
+      jekyll (< 4)
+      mini_magick (~> 4)
+      objective_elements (~> 1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -9,6 +19,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7-x64-mingw32)
+    fastimage (2.1.5)
     ffi (1.10.0-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -45,6 +56,8 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
+    mini_magick (4.9.2)
+    objective_elements (1.0.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
@@ -68,11 +81,12 @@ DEPENDENCIES
   jekyll-archives
   jekyll-feed
   jekyll-paginate
+  jekyll-picture-tag!
   jekyll-sitemap
   wdm (>= 0.1.0)
 
 RUBY VERSION
-   ruby 2.5.3p105
+   ruby 2.6.0p0
 
 BUNDLED WITH
-   1.16.4
+   1.17.2
