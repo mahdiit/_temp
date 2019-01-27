@@ -104,14 +104,14 @@
 
 <!-- Site Title
 ================================================== -->
+{% if page.noheader == nil %}
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
          {{ site.description }}
     </p>
 </div>
-
-
+{% endif %}
 
 <!-- Content
 ================================================== -->
