@@ -1,0 +1,6 @@
+ImageMagick-6.9.10-24-Q16-HDRI-x64-dll.exe
+
+docs:
+https://rubygems.org/gems/jekyll-imagemagick
+
+gem install --local jekyll-imagemagick-1.4.0.gem
