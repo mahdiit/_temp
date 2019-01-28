@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>وبلاگ شخصی مهدی یوسفی</description>
-    <link>/blog/</link>
-    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Jan 2019 16:48:33 +0330</pubDate>
-    <lastBuildDate>Sun, 27 Jan 2019 16:48:33 +0330</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Jan 2019 12:02:49 +0330</pubDate>
+    <lastBuildDate>Mon, 28 Jan 2019 12:02:49 +0330</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -51,8 +51,8 @@
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0430</pubDate>
-        <link>/blog/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</guid>
         
         
         <category>Jekyll</category>
@@ -76,8 +76,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0430</pubDate>
-        <link>/blog/jekyll/tutorial/2018/06/12/first-mass-produced.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/06/12/first-mass-produced.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/06/12/first-mass-produced.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/06/12/first-mass-produced.html</guid>
         
         
         <category>Jekyll</category>
@@ -130,8 +130,8 @@
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0430</pubDate>
-        <link>/blog/jekyll/tutorial/2018/06/12/education.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/06/12/education.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/06/12/education.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/06/12/education.html</guid>
         
         
         <category>Jekyll</category>
@@ -155,8 +155,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0430</pubDate>
-        <link>/blog/jekyll/tutorial/2018/06/12/acumulated-experience.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/06/12/acumulated-experience.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/06/12/acumulated-experience.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/06/12/acumulated-experience.html</guid>
         
         
         <category>Jekyll</category>
@@ -178,8 +178,8 @@
 &lt;p&gt;For more information about how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 May 2018 00:00:00 +0430</pubDate>
-        <link>/blog/jekyll/2018/05/12/about-bundler.html</link>
-        <guid isPermaLink="true">/blog/jekyll/2018/05/12/about-bundler.html</guid>
+        <link>http://localhost:4000/blog/jekyll/2018/05/12/about-bundler.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/2018/05/12/about-bundler.html</guid>
         
         
         <category>Jekyll</category>
@@ -193,8 +193,8 @@
 &lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0330</pubDate>
-        <link>/blog/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
         
         
         <category>Jekyll</category>
@@ -219,8 +219,8 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0330</pubDate>
-        <link>/blog/jekyll/tutorial/2018/01/12/tree-of-codes.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/01/12/tree-of-codes.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/01/12/tree-of-codes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/01/12/tree-of-codes.html</guid>
         
         
         <category>Jekyll</category>
@@ -244,8 +244,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0330</pubDate>
-        <link>/blog/jekyll/tutorial/2018/01/12/red-riding.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/01/12/red-riding.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/01/12/red-riding.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/01/12/red-riding.html</guid>
         
         
         <category>Jekyll</category>
@@ -272,8 +272,8 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0330</pubDate>
-        <link>/blog/jekyll/tutorial/2018/01/12/press-and-education.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/01/12/press-and-education.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/01/12/press-and-education.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/01/12/press-and-education.html</guid>
         
         
         <category>Jekyll</category>
@@ -295,8 +295,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0330</pubDate>
-        <link>/blog/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</link>
-        <guid isPermaLink="true">/blog/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</guid>
+        <link>http://localhost:4000/blog/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</guid>
         
         
         <category>Jekyll</category>
