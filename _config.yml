@@ -1,11 +1,11 @@
 ﻿# Site
-name: "وبلاگ مهدی"
-description: "وبلاگ شخصی مهدی یوسفی"
-meta_description: "مهدی یوسفی وبلاگ شخصی"
+name: "Qr Code"
+description: "ایجاد بارکد QR شخصی سازی شده"
+meta_description: "ایجاد بارکد دو بعدی QR اختصاصی با کیفیت و وکتور api rest-api"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blog
-google_analytics: 'UA-46278016-1'
+baseurl:
+google_analytics:
 disqus:
 mailchimp-list:
 

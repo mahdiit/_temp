@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/about.html</loc>
+<loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/category-archive.html</loc>
+<loc>http://localhost:4000/blog.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/home.html</loc>
+<loc>http://localhost:4000/category-archive.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/qrcode-usage/</loc>
+<loc>http://localhost:4000/qrcode-usage/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/info.html</loc>
+<loc>http://localhost:4000/qr-code-faq.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/qr-code-faq.html</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog/tag-archive.html</loc>
+<loc>http://localhost:4000/tag-archive.html</loc>
 </url>
 </urlset>
