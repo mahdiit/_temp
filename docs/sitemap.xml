@@ -63,13 +63,16 @@
 <loc>http://localhost:4000/blog/category-archive.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/faq.html</loc>
+<loc>http://localhost:4000/blog/home.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/info.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/qr-code-faq.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/tag-archive.html</loc>
