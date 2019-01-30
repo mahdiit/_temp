@@ -690,6 +690,9 @@ blockquote p{
 #homebg, #qrcode-usage{
   background: url(../images/medium/banner-overview.png);
 }
+#homebg-inner{
+  background: url(../images/bg-wide.png) repeat-x bottom center;
+}
 #pg-banners{
   background: url(../images/medium/banner-banners.png);
 }
