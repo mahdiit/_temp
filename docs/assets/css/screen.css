@@ -673,10 +673,33 @@ blockquote p{
   max-width: 100%;
   height: auto;
 }
+.page-header-img{
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+}
+.page-header-img p{
+  line-height: 2em;
+}
 #homebg, #qrcode-usage{
   background: url(../images/medium/banner-overview.png) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+}
+#pg-banners{
+  background: url(../images/medium/banner-banners.png) no-repeat center center fixed;
+}
+#pg-books{
+  background: url(../images/medium/banner-books.jpg) no-repeat center center fixed;
+}
+#pg-bottles-cans{
+  background: url(../images/medium/banner-bottles-cans.jpg) no-repeat center center fixed;
+}
+#pg-brochures{
+  background: url(../images/medium/banner-brochures.png) no-repeat center center fixed;
+}
+#pg-business-cards{
+  background: url(../images/medium/banner-business-cards.jpg) no-repeat center center fixed;
+}
+#pg-clothing{
+  background: url(../images/medium/banner-clothing.jpg) no-repeat center center fixed;
 }
