@@ -673,14 +673,14 @@ blockquote p{
   max-width: 100%;
   height: auto;
 }
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
   .page-header-img{
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
     background-size: 100%;
   }
-}
+}*/
 .sl-img img{
   width: 100%;
 }
@@ -731,4 +731,25 @@ blockquote p{
 }
 #pg-posters{
   background: url(../images/medium/banner-posters.jpg);
+}
+#pg-stationery{
+  background: url(../images/medium/banner-stationery.jpg);
+}
+#pg-table-tents{
+  background: url(../images/medium/banner-table-tents.jpg);
+}
+#pg-tickets{
+  background: url(../images/medium/banner-tickets.jpg);
+}
+#pg-vehicles{
+  background: url(../images/medium/banner-vehicles.jpg);
+}
+#pg-websites{
+  background: url(../images/medium/banner-websites.jpg);
+}
+#pg-windows{
+  background: url(../images/medium/banner-windows.jpg);
+}
+#pg-giveaways{
+  background: url(../images/medium/banner-giveaways.jpg);
 }
