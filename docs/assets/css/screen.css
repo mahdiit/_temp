@@ -7,11 +7,11 @@ License: https://www.wowthemes.net/freebies-license/
  .mainheading {
      padding:1rem 0rem;
 }
- a {
+ a, .slider-btn {
      color:#00ab6b;
      transition:all 0.2s;
 }
- a:hover {
+ a:hover , .slider-btn:hover {
      color: #038252;
      text-decoration:none;
 }
@@ -752,4 +752,13 @@ blockquote p{
 }
 #pg-giveaways{
   background: url(../images/medium/banner-giveaways.jpg);
+}
+.owl-nav{
+  text-align: center;
+}
+.owl-prev, .owl-next{
+  margin:0.3em;
+}
+.slider-btn{
+  font-size: 32px;
 }
