@@ -4,8 +4,7 @@ title : "راهنمای جامع چاپ و پرینت بارکد QR"
 hidden: true
 featured : true
 author: Mahdi
-categories : ["راهنما"]
-tags: ["راهنما","طراحی", "چاپ"]
+categories : ["راهنما", "طراحی", "چاپ"]
 image: assets/images/post/print-guide.png
 ---
 هنگام چاپ QR راهنمایی های زیر به شما کمک می کند تا خوانایی QR خود را حفظ کنید. با این وجود همیشه قبل از چاپ QR با حجم بالا، تست اسکن انجام دهید.

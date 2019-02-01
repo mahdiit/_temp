@@ -762,3 +762,17 @@ blockquote p{
 .slider-btn{
   font-size: 32px;
 }
+.icon-goldstar{
+  color: rgb(255,223,0);
+}
+.icon-goldstar{font-size: 16px; }
+.img-td img{ height: 16px;}
+
+@media(min-width: 600px){
+  .icon-goldstar{font-size: 20px; }
+  .img-td img{ height: 30px;}
+}
+@media(min-width: 768px){
+  .icon-goldstar{font-size: 32px; }
+  .img-td img{ height: 50px;}
+}

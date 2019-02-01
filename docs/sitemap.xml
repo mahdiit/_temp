@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2019/01/31/print-guide-for-qr-codes.html</loc>
+<loc>http://localhost:4000/blog/2019/01/31/print-guide-for-qr-codes.html</loc>
 <lastmod>2019-01-31T00:00:00+03:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2019/02/01/qrcode-reader.html</loc>
+<lastmod>2019-02-01T00:00:00+03:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/qrcode-usage/banners.html</loc>
@@ -83,6 +87,15 @@
 <loc>http://localhost:4000/qrcode-usage/windows.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/</loc>
+<loc>http://localhost:4000/blog/category/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/category/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/category/%DA%86%D8%A7%D9%BE/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/category/%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/</loc>
 </url>
 </urlset>

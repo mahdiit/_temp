@@ -5,9 +5,115 @@
     <description>ایجاد بارکد QR شخصی سازی شده</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Jan 2019 22:35:45 +0330</pubDate>
-    <lastBuildDate>Thu, 31 Jan 2019 22:35:45 +0330</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 09:56:03 +0330</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 09:56:03 +0330</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>بهترین نرم افزارهای بارکد خوان QR</title>
+        <description>&lt;p&gt;هنگامی که  یک کد QR  ایجاد میشود، یکی از چیزهایی که باید مورد توجه قرار گیرد این واقعیت است که کد QR باید توسط یک خواننده / اسکنر کد QR رمزگشایی شود.
+در ابتدا این بارکدها فقط الگوهای سیاه و سفید بودند. اسکنرها هنگام خواندن آنها هیچ مشکلی نداشتند، امروزه، با معرفی کدهای QR رنگارنگ  و پیچیده تر، تکنولوژی هایی برای رمزگشایی آنها به منظور بهبود قابلیت خواندن و پاسخ سریعتر به وجود آمده است.&lt;/p&gt;
+
+&lt;p&gt;یک نرم افزار  QR Code reader  باید:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;سریع و قابل اعتماد باشد&lt;/li&gt;
+  &lt;li&gt;تمامی فرمت های کد QR را رمزگشایی کند&lt;/li&gt;
+  &lt;li&gt;تأیید URL در صفحه قبل از باز کردن URL در مرورگر&lt;/li&gt;
+  &lt;li&gt;تاریخچه همه کدهای QR اسکن شده را حفظ کند&lt;/li&gt;
+  &lt;li&gt;کدهای QR مورد علاقه را بتوان ذخیره کرد&lt;/li&gt;
+  &lt;li&gt;بدون تبلیغات نمایش اجرا شود&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fab fa-apple&quot; style=&quot;font-size:24px;&quot;&gt;&lt;/i&gt; از سپتامبر 2017 با روز رسانی دستگاه های اپل به iOS 11 کاربران قادر به خواندن کدهای QR بدون نصب برنامه هستند فقط کافی است دوربین گوشی خود را جلوی کد QR بگیرید تا در قسمت بالای صفحه اطلاعات بارکد ظاهر شود.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table class=&quot;table table-striped text-center img-td&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+    &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+      &lt;td&gt;اپ&lt;/td&gt;      
+      &lt;td&gt;&lt;i class=&quot;fab fa-google-play&quot;&gt;&lt;/i&gt;&amp;nbsp;Googleplay&lt;/td&gt;
+      &lt;td&gt;&lt;i class=&quot;fab fa-app-store&quot;&gt;&lt;/i&gt;&amp;nbsp;Appstore&lt;/td&gt;      
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;/assets/images/post-img/bar-code-150x150.png&quot; /&gt;&lt;/td&gt;
+    &lt;td&gt;Bar-Code&lt;/td&gt;
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://play.google.com/store/apps/details?id=it.pw2.bar_code&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;&lt;/td&gt;    
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://itunes.apple.com/us/app/bar-code/id422314523?mt=8&quot;&gt;iPhone&lt;/a&gt;&lt;/td&gt;    
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;/assets/images/post-img/i-nigma-150x150.png&quot; /&gt;&lt;/td&gt;
+    &lt;td&gt;i-nigma&lt;br /&gt;&lt;span class=&quot;badge badge-info&quot;&gt;محبوب&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;badge badge-info&quot;&gt;قدیمی&lt;/span&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.threegvision.products.inigma.Android&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;&lt;/td&gt;    
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://itunes.apple.com/app/i-nigma-4-qr-datamatrix-barcode/id388923203?mt=8&quot;&gt;iPhone&lt;/a&gt;&lt;/td&gt;    
+  &lt;/tr&gt;    
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;/assets/images/post-img/kaspersky-150x150.png&quot; /&gt;&lt;/td&gt;
+    &lt;td&gt;Kaspersky QR&lt;br /&gt;&lt;span class=&quot;badge badge-success&quot;&gt;توصیه ما&lt;/span&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.kaspersky.qrscanner&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;&lt;/td&gt;    
+    &lt;td&gt;&lt;i class=&quot;fas fa-star-half icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://itunes.apple.com/us/app/kaspersky-qr-scanner/id948297363?mt=8&quot;&gt;iPhone&lt;/a&gt;&lt;/td&gt;    
+  &lt;/tr&gt;    
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;/assets/images/post-img/quickmark-150x150.png&quot; /&gt;&lt;/td&gt;
+    &lt;td&gt;QuickMark&lt;/td&gt;
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://play.google.com/store/apps/details?id=tw.com.quickmark&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;&lt;/td&gt;    
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://itunes.apple.com/us/app/qr-code-reader-quickmark-barcode/id384883554?mt=8&quot;&gt;iPhone&lt;/a&gt;&lt;/td&gt;    
+  &lt;/tr&gt;    
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;/assets/images/post-img/scan-150x150.png&quot; /&gt;&lt;/td&gt;
+    &lt;td&gt;QR Code Reader&lt;/td&gt;
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://play.google.com/store/apps/details?id=me.scan.android.client&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;&lt;/td&gt;    
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://itunes.apple.com/us/app/qr-code-reader-by-scan/id698925807?mt=8&quot;&gt;iPhone&lt;/a&gt;&lt;/td&gt;    
+  &lt;/tr&gt;    
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;/assets/images/post-img/scan2.png&quot; /&gt;&lt;/td&gt;
+    &lt;td&gt;Scan&lt;br /&gt;&lt;span class=&quot;badge badge-info&quot;&gt;رایگان نیست&lt;/span&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://play.google.com/store/apps/details?id=me.scan.android.scan&amp;amp;hl=en&quot;&gt;Android&lt;/a&gt;&lt;/td&gt;    
+    &lt;td&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star icon-goldstar&quot;&gt;&lt;/i&gt;
+    &lt;br /&gt;
+    &lt;a href=&quot;https://itunes.apple.com/us/app/scan/id411206394?mt=8&quot;&gt;iPhone&lt;/a&gt;&lt;/td&gt;    
+  &lt;/tr&gt;    
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h4 id=&quot;گوگل-از-کدهای-qr-می-ترسد-که-کسب-و-کار-تبلغات-و-موتور-جستجو-آنرا-کم-رنگ-کند&quot;&gt;گوگل از کدهای QR می ترسد که کسب و کار تبلغات و موتور جستجو آنرا کم رنگ کند&lt;/h4&gt;
+&lt;p&gt;یک فرضیه که چرا گوگل هیچ علاقه ای به پشتیبانی از رمز گشایی QR کد در برنامه دوربین ها گوشی اندورید ندارد، این هست که  پیوند مستقیم (Direct Link) در کد QR از جستجوی Google جلوگیری می کند. گوگل می خواهد از موتور جستجوی خود برای نمایش تبلیغات و ردیابی رفتار شما استفاده کند به جای اینکه به طور مستقیم شما را به یک وب سایت با یک اسکن متصل کند.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0330</pubDate>
+        <link>http://localhost:4000/blog/2019/02/01/qrcode-reader.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/02/01/qrcode-reader.html</guid>
+        
+        
+        <category>راهنما</category>
+        
+        <category>نرم افزار</category>
+        
+      </item>
     
       <item>
         <title>راهنمای جامع چاپ و پرینت بارکد QR</title>
@@ -92,17 +198,15 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 31 Jan 2019 00:00:00 +0330</pubDate>
-        <link>http://localhost:4000/2019/01/31/print-guide-for-qr-codes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/31/print-guide-for-qr-codes.html</guid>
+        <link>http://localhost:4000/blog/2019/01/31/print-guide-for-qr-codes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/01/31/print-guide-for-qr-codes.html</guid>
+        
         
         <category>راهنما</category>
         
         <category>طراحی</category>
         
         <category>چاپ</category>
-        
-        
-        <category>راهنما</category>
         
       </item>
     
